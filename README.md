@@ -1,1 +1,1 @@
-# mest_test_repo
+MEST 2024 Introduction to Git Class
